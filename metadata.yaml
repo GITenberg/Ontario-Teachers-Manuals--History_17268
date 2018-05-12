@@ -1,0 +1,30 @@
+_repo: Ontario-Teachers-Manuals--History_17268
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ontario. Department of Education
+    aliases:
+    - Ontario. Ministere de l'education
+    - Ontario. Dept. of Education
+    - Ontario. Education Department
+    - Ontario. Ministère de l'éducation
+    gutenberg_agent_id: '7260'
+    url: http://www.gutenberg.org/2009/agents/7260
+description: ''
+gutenberg_bookshelf: Children's History
+gutenberg_issued: '2005-12-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17268'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'LB'
+- !lcsh 'History -- Study and teaching'
+title: 'Ontario Teachers'' Manuals: History'
+url: http://www.gutenberg.org/ebooks/17268
